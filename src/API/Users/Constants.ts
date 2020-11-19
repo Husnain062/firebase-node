@@ -1,0 +1,15 @@
+module.exports = {
+    COLLECTION_NAME: "users",
+    WORKINGDAY_ARRAY: [1,2,3,4],
+    TIMEZONE_LANGUAGE: "en",
+    DATE_FORMAT: "DD-MM-YYYY",
+    HOURS: 19,
+    NUMBER_OF_DAYS_THREE: 2,
+    NUMBER_OF_DAYS_FOUR: 3,
+    SUBSCRIBED_FACTS_LIMIT: 2,
+    SUBSCRIPTION_LIMIT: 6,
+    STATUS_TRUE: true,
+    STATUS_FALSE: false,
+    EMPTY_STRING: "",
+    METHOD_TYPE_POST: "POST",
+};  
